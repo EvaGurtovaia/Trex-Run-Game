@@ -1,1 +1,7 @@
-style.css
+.dino {
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    background-color: aqua;
+    bottom: 0px;
+}
